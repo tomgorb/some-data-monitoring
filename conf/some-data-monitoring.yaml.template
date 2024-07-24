@@ -1,0 +1,6 @@
+google_cloud:
+  project: 
+  bucket: 
+  billing:
+    dataset:
+    table:
