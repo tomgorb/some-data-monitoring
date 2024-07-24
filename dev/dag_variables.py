@@ -1,0 +1,6 @@
+IMAGE_VERSION = "latest"
+DAG_VERSION = "latest"
+IMAGE_REPOSITORY = "some-data-monitoring"
+IMAGE_PULL_POLICY = "IfNotPresent"
+K8S_NS = "some-data-monitoring"
+K8S_SA = "default"
