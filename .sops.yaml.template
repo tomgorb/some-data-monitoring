@@ -1,0 +1,3 @@
+creation_rules:
+    # use GCP KMS
+    - gcp_kms: projects/{PROJECT}/locations/global/keyRings/sops/cryptoKeys/sops-key
