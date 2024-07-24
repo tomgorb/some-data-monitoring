@@ -50,4 +50,4 @@ $ airflow scheduler
 $ ./dev/deploy_local.sh full
 ``` 
 
-Open the Airflow webserver [HERE](http://127.0.0.1:PORT/home)
+Open the Airflow webserver at **http://127.0.0.1:PORT/home**
