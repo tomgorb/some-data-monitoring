@@ -1,0 +1,8 @@
+setuptools
+cython<3.0.0
+PyYAML==6.0
+requests==2.26.0
+google-cloud-secret-manager==2.*
+google-cloud-bigquery
+google-cloud-storage
+croniter
